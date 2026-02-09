@@ -1,0 +1,7 @@
+bin 1
+OldHit
+.{211}
+
+bin 2
+NewReject
+.{221}

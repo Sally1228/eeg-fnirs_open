@@ -1,0 +1,17 @@
+subjId,condition,roi,chromophore,blockIndex,blockMean,nChannels
+sub-002,left,RightCentral,HbO,1,4.59445047788676e-07,7
+sub-002,left,RightCentral,HbR,1,-1.90193119320577e-07,7
+sub-002,left,RightCentral,HbO,2,4.57085753443036e-07,7
+sub-002,left,RightCentral,HbR,2,-2.4346431293197e-07,7
+sub-002,left,RightCentral,HbO,3,5.40911170754975e-07,7
+sub-002,left,RightCentral,HbR,3,-2.48267837752146e-07,7
+sub-002,left,RightCentral,HbO,4,9.40436195890619e-08,7
+sub-002,left,RightCentral,HbR,4,-4.1966161519185e-08,7
+sub-002,right,LeftCentral,HbO,1,-3.2171604950056e-08,4
+sub-002,right,LeftCentral,HbR,1,-1.22815798690419e-07,4
+sub-002,right,LeftCentral,HbO,2,5.20384365101639e-07,4
+sub-002,right,LeftCentral,HbR,2,-2.09098396097125e-07,4
+sub-002,right,LeftCentral,HbO,3,4.30437036905696e-07,4
+sub-002,right,LeftCentral,HbR,3,-2.111658506442e-07,4
+sub-002,right,LeftCentral,HbO,4,5.06005952202621e-07,4
+sub-002,right,LeftCentral,HbR,4,-2.06214925320187e-07,4

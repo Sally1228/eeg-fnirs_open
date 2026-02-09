@@ -1,0 +1,1 @@
+b3 = (b2 - b1) label right minus left

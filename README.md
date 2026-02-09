@@ -13,7 +13,7 @@ This project implements a complete EEG-fNIRS data analysis framework.
 | Task | Paradigm | EEG Features | fNIRS ROIs |
 |------|----------|-------------|-----------|
 | **Auditory Oddball** | Standard/deviant tone detection | P300 ERP, Delta/Theta power | PFC, Parietal, Temporal |
-| **Finger Tapping** | Left/right hand motor execution | Mu/Beta ERD, lateralization index | Bilateral central regions |
+| **Unilateral hand grasping task** | Left/right hand motor execution | Mu/Beta ERD, lateralization index | Bilateral central regions |
 | **Semantic Categorization** | Visual word categorization | Alpha/Beta relative power, ERD | Frontal, Temporal |
 
 ## Repository Structure

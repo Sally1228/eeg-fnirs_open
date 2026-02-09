@@ -6,7 +6,7 @@ A comprehensive MATLAB-based pipeline for simultaneous EEG-fNIRS data processing
 
 ## Overview
 
-This project implements a complete multimodal neuroimaging analysis framework to investigate brain functional differences across three CSVD subtypes — sporadic SVD, CADASIL, and CAA — compared with healthy controls (HC). The pipeline covers three cognitive-motor paradigms and integrates EEG electrophysiology with fNIRS hemodynamics to characterize neurovascular coupling impairments.
+This project implements a complete EEG-fNIRS data analysis framework.
 
 ### Task Paradigms
 

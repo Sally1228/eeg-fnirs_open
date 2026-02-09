@@ -1,4 +1,4 @@
-EEG-frnis coupling
+# EEG-fnirs coupling 数据分析
 
 本项目完成任务态下EEG、fNIRS数据处理及耦联性分析。包含听觉oddball任务、记忆-再认任务、手运动任务、语义词语流畅性任务。
 

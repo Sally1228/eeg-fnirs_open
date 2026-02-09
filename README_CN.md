@@ -1,4 +1,4 @@
-# 脑小血管病EEG-fNIRS多模态分析流水线
+# 脑小血管病EEG-fNIRS分析
 
 [English](README.md) | **中文**
 

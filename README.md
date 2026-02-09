@@ -1,4 +1,4 @@
-# EEG-fNIRS Multimodal Analysis Pipeline for Cerebral Small Vessel Disease
+# EEG-fNIRS Analysis Pipeline for Cerebral Small Vessel Disease
 
 **English** | [中文](README_CN.md)
 

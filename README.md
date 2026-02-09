@@ -47,8 +47,8 @@ This project implements a complete multimodal neuroimaging analysis framework to
 │
 └── eeg_fnirs_processing/              # EEG-fNIRS coupling analysis
     ├── audi_eeg_fnirs_processing/     # STEP1–STEP4 (full coupling pipeline)
-    ├── motor_eeg_fnirs_processing/    # STEP1–STEP2 (block-level + EEG-informed)
-    └── cate_eeg_fnirs_processing/     # STEP1–STEP2 (block-level + EEG-informed)
+    ├── motor_eeg_fnirs_processing/    # STEP1–STEP2 (full coupling pipeline)
+    └── cate_eeg_fnirs_processing/     # STEP1–STEP2 (full coupling pipeline)
 ```
 
 ## Processing Pipelines
@@ -211,13 +211,3 @@ Raw EEG (.edf)                     Raw fNIRS (.snirf)
     │  ·Benjamini-Hochberg FDR         │
     └───────────────────────────────────┘
 ```
-
-## Citation
-
-If you use this pipeline in your research, please cite:
-
-> [Your publication information here]
-
-## License
-
-[License information here]
